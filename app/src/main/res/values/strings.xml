@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex7</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_your_user_name">Enter your user name</string>
+    <string name="done">DONE</string>
+    <string name="user_name_rules">User name must contain only: \n - Digits (0-9) \n - Letters(a-z, A-Z)</string>
+</resources>
