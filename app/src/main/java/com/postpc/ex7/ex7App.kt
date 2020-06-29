@@ -15,6 +15,9 @@ class ex7App : Application()
         if(sp.getString("user", null) != null)
         {
             // Already signed in
+            val intent : Intent = Intent(this, FirstTimeUserActivity::class.java)
+            intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            startActivity(intent)
         }
         else
         {
