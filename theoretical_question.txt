@@ -1,0 +1,7 @@
+a:
+* pro - Saves time every time launching the app. Does not need to rerequest token every time
+* con - Less secured
+
+b:
+* pro - More secured
+* con - Takes more time every time launching the app. Need to rerequest token every time
