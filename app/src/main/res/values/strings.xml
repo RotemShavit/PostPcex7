@@ -5,4 +5,9 @@
     <string name="done">DONE</string>
     <string name="user_name_rules">User name must contain only: \n - Digits (0-9) \n - Letters(a-z, A-Z)</string>
     <string name="your_info">Your Info</string>
+    <string name="enter_new_pretty_name">Enter new pretty name</string>
+    <string name="set_new_pretty_name">set new pretty name</string>
+    <string name="set_new_image_url">set new image url</string>
+    <string name="write_here">Write here</string>
+    <string name="something_went_wrong">Something went wrong</string>
 </resources>

@@ -27,6 +27,7 @@ public class ServerHolder {
                 .setLenient()
                 .create();
         String BASE_URL = "https://hujipostpc2019.pythonanywhere.com";
+//        String BASE_URL = "http://10.0.0.23:5678";
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)
                 .addConverterFactory(GsonConverterFactory.create(gson))
